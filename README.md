@@ -10,9 +10,6 @@ A person who loves to learn, modify, and like to building web applications.
 
 
 ### 🛠️ Teknologies dan Tools
-<div align="center">
-Here are some of the technologies I use :
-</div>
 
 <div align="center">
 
