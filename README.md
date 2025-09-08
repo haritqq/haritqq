@@ -5,15 +5,16 @@
 
 ### 💻 About Me
 <div align="center">
-
 A person who loves to learn, modify, and like to building web applications.
-
+</div>
 
 
 ### 🛠️ Teknologies dan Tools
 <div align="center">
 Here are some of the technologies I use :
+</div>
 
+<div align="center">
 
 | Category | Technology |
 | --- | --- |
@@ -33,16 +34,6 @@ Here are some of the technologies I use :
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=haritqq&theme=onedark)
 </div>
-
-<!-- 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_USERNAME)
-[![Website](https://img.shields.io/badge/-Website-informational?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-
---- -->
-
 
 <!-- ## Hi there 👋 -->
 
