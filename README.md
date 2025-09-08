@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="circle.png" width="150px" alt="Avatar saya" />
+  <img src="circle.png" width="150px" alt="foto saya" />
   <h1>Hello, I'm Harits 👋</h1>
 </div>
 
@@ -13,9 +13,9 @@ A person who loves to learn, modify, and like to building web applications.
 
 ### 🛠️ Teknologies dan Tools
 
-Here are some of the technologies I use:
+Here are some of the technologies I use :
 
-| Categori | Teknologi |
+| Category | Technology |
 | --- | --- |
 | **Programming Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | **FFrameworks & Libraries** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
@@ -27,7 +27,9 @@ Here are some of the technologies I use:
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haritqq&show_icons=true&theme=onedark&hide_title=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haritqq&layout=compact&theme=onedark&hide_title=true)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=haritqq&theme=onedark)
 
 ---
