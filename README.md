@@ -6,12 +6,16 @@
 ---
 
 ### 💻 About Me
+<div align="center">
 
 A person who loves to learn, modify, and like to building web applications.
 
-### 🛠️ Teknologies dan Tools
+</div>
 
+### 🛠️ Teknologies dan Tools
+<div align="center">
 Here are some of the technologies I use :
+</div>
 
 | Category | Technology |
 | --- | --- |
@@ -20,6 +24,7 @@ Here are some of the technologies I use :
 | **Databases** | ![My SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) |
 
+</div>
 
 ### 📊 GitHub Stats
 <div align="center">
