@@ -3,19 +3,17 @@
   <h1>Hello, I'm Harits 👋</h1>
 </div>
 
----
-
 ### 💻 About Me
 <div align="center">
 
 A person who loves to learn, modify, and like to building web applications.
 
-</div>
+
 
 ### 🛠️ Teknologies dan Tools
 <div align="center">
 Here are some of the technologies I use :
-</div>
+
 
 | Category | Technology |
 | --- | --- |
