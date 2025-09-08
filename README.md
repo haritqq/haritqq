@@ -25,12 +25,14 @@ Here are some of the technologies I use :
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haritqq&show_icons=true&theme=onedark&hide_title=true)
+<div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haritqq&layout=compact&theme=onedark&hide_title=true)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haritqq&show_icons=true&theme=onedark&hide_title=true)
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=haritqq&theme=onedark)
+</div>
 
 ---
 
