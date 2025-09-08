@@ -1,22 +1,22 @@
 <div align="center">
   <img src="URL_AVATAR_ATAU_GAMBAR_ANIMASI" width="150px" alt="Avatar saya" />
-  <h1>Halo, saya [Nama Anda]! 👋</h1>
+  <h1>Halo, saya Harits 👋</h1>
 </div>
 
 ---
 
 ### 💻 Tentang Saya
 
-Seorang **[Gelar/Jabatan Anda, misalnya: Pengembang Full-Stack]** yang bersemangat dalam membangun aplikasi web yang efisien dan menarik. Saya memiliki pengalaman dalam **[Daftar teknologi/bahasa pemrograman yang Anda kuasai, misalnya: JavaScript, Python, React, Node.js]**.
+Saya seorang yang bersemangat dalam membangun aplikasi web. Saya memiliki pengalaman dalam **PHP dan Javascript**.
 
-* 🔭 Saat ini saya sedang mengerjakan **[Nama Proyek, misalnya: sebuah aplikasi manajemen proyek berbasis React]**.
+<!--* 🔭 Saat ini saya sedang mengerjakan **[Nama Proyek, misalnya: sebuah aplikasi manajemen proyek berbasis React]**.
 * 🌱 Saya sedang belajar lebih dalam tentang **[Teknologi yang sedang Anda pelajari, misalnya: TypeScript dan Next.js]**.
 * 👯 Saya terbuka untuk berkolaborasi dalam proyek **[Jenis proyek yang Anda minati, misalnya: open-source terkait data science]**.
 * 🤔 Saya mencari bantuan dengan **[Area yang Anda butuhkan bantuan, misalnya: optimasi kinerja database]**.
 * 💬 Tanya saya tentang **[Topik yang Anda kuasai, misalnya: pengembangan REST API atau deployment di Vercel]**.
 * 📫 Anda dapat menghubungi saya melalui **[Email Anda]**.
 * 😄 Kata-kata yang mendeskripsikan saya: **[Sifat atau hobi Anda, misalnya: Problem solver, inovatif, suka ngopi]**.
-* ⚡ Fakta menarik: **[Sesuatu yang menarik tentang Anda, misalnya: Saya bisa memecahkan Rubik's Cube dalam 30 detik.]**
+* ⚡ Fakta menarik: **[Sesuatu yang menarik tentang Anda, misalnya: Saya bisa memecahkan Rubik's Cube dalam 30 detik.]** -->
 
 ---
 
